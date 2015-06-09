@@ -1,3 +1,5 @@
 # 2015-khmer-sequence-bloom-trees
 
-See https://github.com/ctb/2015-khmer-sequence-bloom-trees/blob/master/sbt.py
+An implementation of Sequence Bloom Trees, https://github.com/Kingsford-Group/bloomtree
+
+See https://github.com/ctb/2015-khmer-sequence-bloom-trees/blob/master/sbt.py for source.
